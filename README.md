@@ -133,7 +133,7 @@
 
 - **Author:** [shubham-shipt](https://github.com/shubham-shipt)
 - **Live view:** [shubham-shipt.github.io/The-Tor-INC/](https://shubham-shipt.github.io/Tor-Project/)
-
+bhul
 ---
 
 ## 📝 License
@@ -145,5 +145,5 @@ Private for now. Contact the author for collaboration or licensing.
 > <div align="center"><i>
 > “Guard your world, silently.”<br>
 > “A shield you’ll love to use.”<br>
-> <b> Welcome to The-Tor.</b> 
+> <b> Welcome to The Tor.</b> 
 > </i></div>

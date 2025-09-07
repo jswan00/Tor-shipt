@@ -100,7 +100,7 @@
 
 | <img src="https://img.icons8.com/fluency/32/000000/network.png" alt="Relays"/> Relays | <img src="https://img.icons8.com/fluency/32/000000/exit.png" alt="Exit Relays"/> Exit Relays | 🌉 Bridge Relays | <img src="https://img.icons8.com/fluency/32/000000/conference-call.png" alt="Daily Users"/> Daily Users |
 |:--------------------:|:-------------------------:|:--------------------------:|:-----------------------------:|
-| **5,000+**           | **2,000+**                | **1,000+**                 | **1,700,000+**                |
+| **62**           | **220+**                | **74**                 | ****                |
 
 ---
 

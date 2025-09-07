@@ -46,7 +46,6 @@
   <img src="https://img.shields.io/badge/Robots.txt-OK-a4f86e?style=flat-square&logo=codesignal&logoColor=white" alt="Robots.txt OK"/>
   <img src="https://img.shields.io/badge/Schema%20Markup-Active-ff9f43?style=flat-square&logo=structureddatamarkup&logoColor=white" alt="Schema Markup Active"/>
   <img src="https://img.shields.io/badge/Open%20Graph-Ready-ff6b81?style=flat&logo=opengraph&logoColor=white" alt="Open Graph Ready"/>
-  <img src="https://img.shields.io/badge/Audit-Passed-54a0ff?style=flat-square&logo=searchconsole&logoColor=white" alt="SEO Audit Passed"/>
 </div>
 
 
@@ -62,7 +61,7 @@
 ![UI](https://img.shields.io/badge/UI-ff6b81?style=flat-square&logo=figma&logoColor=white)
 ![Map](https://img.shields.io/badge/Map-54a0ff?style=plastic&logo=torbrowser&logoColor=white)
 ![GPU](https://img.shields.io/badge/GPU-222f3e?style=flat&logo=nvidia&logoColor=green)
-![Custom](https://img.shields.io/badge/Custom-ff9f43?style=flat-square&logo=paintbrush&logoColor=white)
+
 
 ## 🎨 Thems <img src="https://img.icons8.com/fluency/32/7d5fff/color-palette.png"/>
 

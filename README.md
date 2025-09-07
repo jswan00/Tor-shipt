@@ -10,7 +10,7 @@
 
   <!-- Text div -->
   <div style="margin-top:10px; font-family:'Poppins', sans-serif; font-size:20px; font-weight:600;">
-    <a href="https://www.torproject.org/" target="_blank" style="text-decoration:none; color:#fff;">
+    <a href="https://shubham-shipt.github.io/Tor-Project/" target="_blank" style="text-decoration:none; color:#fff;">
       Click to view Tor Project Website
     </a>
   </div>

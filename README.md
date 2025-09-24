@@ -8,7 +8,7 @@
     </a>
   </div>
 
-  <!-- Text div -->
+ 
   <div style="margin-top:10px; font-family:'Poppins', sans-serif; font-size:20px; font-weight:600;">
     <a href="https://shubham-shipt.github.io/Tor-Project/" target="_blank" style="text-decoration:none; color:#fff;">
       Click to view Tor Project Website
@@ -21,18 +21,18 @@
 </div>
 
 <div align="center" style="margin-top:1em;margin-bottom:1em;">
-  <!-- GIF Demo: Local offline file -->
+  
   <img src="resrc/giphy-ezgif.com-video-to-gif-converter.gif" width="700" alt="Demo GIF" style="border-radius:36px;box-shadow:0 18px 50px #7d5fff88"/>
 </div>
 
 ---
 
-## ℹ️ Note
+## ℹ️ Search Engine Optimization.
 
 > **This site was built by me just for my SEO practice.**  
 >  *for my own SEO learning and practice purposes only.*
 
-<!-- SEO Badge Set - with Icons and Short Formats -->
+
 <div align="center" style="margin: 8px 0;">
   <img src="https://img.shields.io/badge/SEO-Optimized-brightgreen?style=flat-square&logo=google&logoColor=white" alt="SEO Optimized"/>
   <img src="https://img.shields.io/badge/Meta%20Tags-Complete-blue?style=flat&logo=code&logoColor=white" alt="Meta Tags"/>
@@ -67,18 +67,35 @@
 ![GPU](https://img.shields.io/badge/GPU-222f3e?style=flat&logo=nvidia&logoColor=green)
 
 
-## 🎨 Thems <img src="https://img.icons8.com/fluency/32/7d5fff/color-palette.png"/>
+## 🎨 Themes <img src="https://img.icons8.com/fluency/32/7d5fff/color-palette.png"/>
 
-|  | Color      | 
-|--|------------|
-| 🟪 | `#7d5fff` |     
-| 💜 | `#8d72e1` | 
-| ⚫ | `#222226` | 
-| 🤍 | `#ececff` |
-| 🟩 | `#a4f86e` | 
-| 🟡 | `#ffd34e` | 
+<table>
+  <tr>
+    <th>Icon</th><th>Theme Name</th>
+  </tr>
+  <tr>
+    <td><span style="display:inline-block;width:18px;height:18px;background:#613976;border-radius:50%;"></span></td>
+    <td><b>Custom Purple</b></td>
+  </tr>
+  <tr>
+    <td><span style="display:inline-block;width:18px;height:18px;background:#561C24;border-radius:50%;"></span></td>
+    <td><b>Orange Rich</b></td>
+  </tr>
+  <tr>
+    <td><span style="display:inline-block;width:18px;height:18px;background:#06141B;border-radius:50%;"></span></td>
+    <td><b>Navy Blue</b></td>
+  </tr>
+  <tr>
+    <td><span style="display:inline-block;width:18px;height:18px;background:#10214b;border-radius:50%;"></span></td>
+    <td><b>Royal Gold</b></td>
+  </tr>
+  <tr>
+    <td>🌙☀️</td>
+    <td><b>Dark/Light Toggle</b></td>
+  </tr>
+</table>
 
----
+
 
 > ⚠️ **Important Notice**  
 > This website is currently optimized for **desktop and laptop devices**.  
@@ -87,7 +104,7 @@
 
 ---
 
-## 🚀 Platform Download Center
+## 🚀 Platform Download.
 
 <div align="center">
 
@@ -108,7 +125,7 @@
 
 ---
 
-## ✨ GUI Innovations
+## ✨ GUI 
 
 - <img src="https://img.icons8.com/color/32/7d5fff/firework-explosion.png"/> **Animated  :** SVG-morphing icons, glow effects, onion pulse.
 - <img src="https://img.icons8.com/color/32/7d5fff/blur.png"/> **Glass Cards:** Layered with, interactive hover.
@@ -148,6 +165,6 @@ Private for now. Contact the author for collaboration or licensing.
 
 > <div align="center"><i>
 > “Guard your world, silently.”<br>
-> “A shield you’ll love to use.”<br>
-> <b> Welcome to The Tor..</b> 
+> “.”<br>
+> <b> ..</b> 
 > </i></div>

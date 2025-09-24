@@ -48,6 +48,10 @@
   <img src="https://img.shields.io/badge/Open%20Graph-Ready-ff6b81?style=flat&logo=opengraph&logoColor=white" alt="Open Graph Ready"/>
 </div>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e2bf3a79-c850-4eaf-9c62-dde052670b3c" 
+       alt="image" width="696" height="318">
+</p>
 
 
 ---

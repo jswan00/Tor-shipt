@@ -49,9 +49,9 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/rsrc/serp-report.png" 
-       alt="image" width="696" height="318">
+  <img src="resrc/serp-report.png" alt="SEO Report" width="696" height="318">
 </p>
+
 
 
 ---

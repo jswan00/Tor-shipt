@@ -49,7 +49,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e2bf3a79-c850-4eaf-9c62-dde052670b3c" 
+  <img src="https://github.com/user-attachments/rsrc/serp-report.png" 
        alt="image" width="696" height="318">
 </p>
 

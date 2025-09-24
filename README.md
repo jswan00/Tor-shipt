@@ -164,7 +164,7 @@ Private for now. Contact the author for collaboration or licensing.
 ---
 
 > <div align="center"><i>
-> “Guard your world, silently.”<br>
+> “Guard your a@s, silently.”<br>
 > “.”<br>
 > <b> ..</b> 
 > </i></div>

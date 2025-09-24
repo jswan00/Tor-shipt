@@ -1,11 +1,11 @@
 name: Daily SEO Check
 
 on:
-
+  # Manual run ke liye button
   workflow_dispatch:
 
   schedule:
-   
+    # Runs at 10:32 AM UTC -> which is 4:02 PM in India (IST)
     - cron: '32 10 * * *'
 
 jobs:

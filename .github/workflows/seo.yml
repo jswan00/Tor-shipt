@@ -1,73 +1,46 @@
-name: 🤖 Professional SEO Audit Bot
-
-permissions:
-  contents: write
-  actions: read
-
+name: 🤖
 on:
-  workflow_dispatch:
-    inputs:
-      url:
-        description: 'Optional URL to audit (overrides config.ini)'
-        required: false
   schedule:
-    - cron: '0 5 * * *'
-  push:
-    branches:
-      - main
-
-concurrency:
-  group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+    # Har 6 ghante mein run hoga (din mein 4 baar)
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
 
 jobs:
-  seo-audit:
+  create-content:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
-    
-    env:
-      GIT_AUTHOR_NAME: "SEO Audit Bot 🤖"
-      GIT_AUTHOR_EMAIL: "actions-bot@github.com"
-
     steps:
-      - name: 1. Checkout Repository Code
+      - name: 1. Checkout Repo Code
         uses: actions/checkout@v4
 
-      - name: 2. Setup Python Environment
-        uses: actions/setup-python@v4
-        with:
-          python-version: '3.10'
-          cache: 'pip'
-
-      - name: 3. Install Python Dependencies
-        run: pip install -r requirements.txt
-
-      - name: 4. Override URL from Manual Trigger
-        if: github.event.inputs.url != ''
+      - name: 2. Create New Folder and File
+        # Timezone set to India (IST) for correct date/time
+        env:
+          TZ: 'Asia/Kolkata'
         run: |
-          echo "Overriding URL in config.ini with: ${{ github.event.inputs.url }}"
-          sed -i "s|^url = .*|url = ${{ github.event.inputs.url }}|" config.ini
+          # Step 1: Define folder and file names using current date and time
+          FOLDER_NAME="AutoLogs_$(date +'%Y-%m-%d')"
+          FILE_NAME="log_$(date +'%H-%M-%S').md"
+          FULL_PATH="$FOLDER_NAME/$FILE_NAME"
+          
+          # Step 2: Create the folder (if it doesn't exist)
+          mkdir -p $FOLDER_NAME
+          
+          # Step 3: Create the markdown file with some content
+          echo "## ✅ Log Entry" > $FULL_PATH
+          echo "**Created On:** $(date)" >> $FULL_PATH
+          echo "**Action ID:** ${{ github.run_id }}" >> $FULL_PATH
+          
+          echo "👍 Successfully created file: $FULL_PATH"
 
-      - name: 5. Execute SEO Audit Script
-        run: python seo_check.py
-
-      - name: 6. Commit and Push SEO Report
+      - name: 3. Commit and Push New File
         run: |
-          git config --global user.name "${GIT_AUTHOR_NAME}"
-          git config --global user.email "${GIT_AUTHOR_EMAIL}"
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
           
-          if [[ -z $(git status --porcelain SEO/) ]]; then
-            echo "✅ No changes detected in SEO report. Nothing to commit."
-            exit 0
-          fi
-          
-          SCORE=$(grep "Overall Score" SEO/report.md | sed -n 's/.*`\([^`]*\)`.*/\1/p')
-          COMMIT_MSG="📈 SEO Report `date +'%Y-%m-%d'` | Score: ${SCORE}"
-          
-          echo "📝 Committing changes with message: ${COMMIT_MSG}"
-          git add SEO/
-          git commit -m "${COMMIT_MSG}"
-          
-          echo "🚀 Pushing changes to repository..."
+          git add .
+          git commit -m "feat(bot): Auto-generate new log file"
           git push
+          echo "🚀 New content pushed to the repository."
+
+
 

